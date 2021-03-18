@@ -1,2 +1,2 @@
 # ASCAPP
-## An application for collecting anonymous contact data from nearby people using Bluetooth Low Energy.
+## An application for collecting anonymous contact data from nearby devices using Bluetooth Low Energy.
